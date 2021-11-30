@@ -1,4 +1,4 @@
-# Mobile_Automation_Project
+
 # Set up 
 1. Java - eclipse
 2. Android studio
@@ -9,12 +9,11 @@
 6. 4723 - appium server
 7. Emulator / Simulator
 
-
 #Actions Mobile Functionality
 
 * Click
-Long press
-Colors
-Drag and drop
-Check boxes
-Pop ups
+* Long press
+* Colors
+* Drag and drop
+* Check boxes
+* Pop ups
