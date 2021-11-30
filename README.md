@@ -9,7 +9,7 @@
 6. 4723 - appium server
 7. Emulator / Simulator
 
-#Actions Mobile Functionality
+# Actions Mobile Functionality
 
 * Click
 * Long press
