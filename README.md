@@ -17,3 +17,15 @@
 * Drag and drop
 * Check boxes
 * Pop ups
+
+
+//1. talk to appium server
+//2. then appium server invokes your  virtual devices or real devices
+//3. Desired Capabilities - so server knows which emulator to open 
+//open rahulemulator
+
+/**
+* test app
+* server connection ste
+* pre requisite - 1. server has started 2. emulator is opened
+*/
