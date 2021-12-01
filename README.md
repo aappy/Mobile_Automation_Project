@@ -30,4 +30,4 @@
 * pre requisite - 1. server has started 2. emulator is opened
 */
 
-**  /Users/aparnachdhry/Library/Android/sdk/tools/bin  **
+** /Users/aparnachdhry/Library/Android/sdk/tools/bin**
