@@ -31,3 +31,13 @@
 */
 
 **/Users/aparnachdhry/Library/Android/sdk/tools/bin**
+
+## Locators
+
+```
+* xpath
+* id
+* classname
+* androidUIautomator
+
+```
