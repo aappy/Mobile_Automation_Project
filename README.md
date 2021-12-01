@@ -35,9 +35,9 @@
 ## Locators
 
 ```
-* xpath
-* id
-* classname
-* androidUIautomator
+- xpath
+- id
+- classname
+- androidUIautomator
 
 ```
